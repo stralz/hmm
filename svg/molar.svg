@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400px"
+   height="300px"
+   viewBox="0 0 400 300"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="molar.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="784"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="200"
+     inkscape:cy="150"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <!-- upper right 8 -->
+  <g
+     id="molar-group"
+     class="molar"
+     style="fill:#ffffff">
+    <rect
+       x="75"
+       y="75"
+       stroke="black"
+       id="disto-occlusal"
+       style="stroke-width:5px;fill:#ffffff"
+       width="125"
+       height="150"
+       fill="white" />
+    <rect
+       x="200"
+       y="75"
+       stroke="black"
+       id="mesio-occlusal"
+       style="stroke-width:5px;fill:#ffffff"
+       width="125"
+       height="150"
+       fill="white" />
+    <polygon
+       stroke="black"
+       id="disto-buccal"
+       style="stroke-width:5px;fill:#ffffff"
+       points="0 0 200 0 200 75 75 75"
+       fill="white" />
+    <polygon
+       stroke="black"
+       id="mesio-buccal"
+       style="stroke-width:5px;fill:#ffffff"
+       points="200 0 400 0 325 75 200 75"
+       fill="white" />
+    <polygon
+       stroke="black"
+       id="mesial"
+       style="stroke-width:5px;fill:#ffffff"
+       points="400 0 400 300 325 225 325 75"
+       fill="white" />
+    <polygon
+       stroke="black"
+       id="mesio-palatal"
+       style="stroke-width:5px;fill:#ffffff"
+       points="400 300 200 300 200 225 325 225"
+       fill="white" />
+    <polygon
+       stroke="black"
+       id="disto-palatal"
+       style="stroke-width:5px;fill:#ffffff"
+       points="200 300 0 300 75 225 200 225"
+       fill="white" />
+    <polygon
+       stroke="black"
+       id="distal"
+       style="stroke-width:5px;fill:#ffffff"
+       points="0 300 0 0 75 75 75 225"
+       fill="white" />
+  </g>
+</svg>
